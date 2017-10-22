@@ -1,5 +1,0 @@
-c:\users\роман\documents\visual studio 2017\Projects\EPAM\InsertNumber\InsertNumber\bin\Debug\InsertNumber.dll
-c:\users\роман\documents\visual studio 2017\Projects\EPAM\InsertNumber\InsertNumber\bin\Debug\InsertNumber.pdb
-c:\users\роман\documents\visual studio 2017\Projects\EPAM\InsertNumber\InsertNumber\obj\Debug\InsertNumber.csprojResolveAssemblyReference.cache
-c:\users\роман\documents\visual studio 2017\Projects\EPAM\InsertNumber\InsertNumber\obj\Debug\InsertNumber.dll
-c:\users\роман\documents\visual studio 2017\Projects\EPAM\InsertNumber\InsertNumber\obj\Debug\InsertNumber.pdb
