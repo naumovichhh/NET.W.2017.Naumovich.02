@@ -1,0 +1,5 @@
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.dll
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber\bin\Debug\FindNextBiggerNumber.pdb
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.csprojResolveAssemblyReference.cache
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.dll
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber\obj\Debug\FindNextBiggerNumber.pdb
