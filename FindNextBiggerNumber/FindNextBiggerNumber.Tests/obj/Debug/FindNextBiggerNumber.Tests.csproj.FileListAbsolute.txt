@@ -1,0 +1,9 @@
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber.Tests\bin\Debug\FindNextBiggerNumber.Tests.dll
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber.Tests\bin\Debug\FindNextBiggerNumber.Tests.pdb
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber.Tests\bin\Debug\FindNextBiggerNumber.dll
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber.Tests\bin\Debug\FindNextBiggerNumber.pdb
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber.Tests\obj\Debug\FindNextBiggerNumber.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber.Tests\obj\Debug\FindNextBiggerNumber.Tests.dll
+C:\Users\Роман\documents\visual studio 2017\Projects\EPAM\FindNextBiggerNumber\FindNextBiggerNumber.Tests\obj\Debug\FindNextBiggerNumber.Tests.pdb
